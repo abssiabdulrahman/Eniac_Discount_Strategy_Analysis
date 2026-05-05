@@ -94,10 +94,10 @@ How to translate analytical findings into prioritised, actionable recommendation
 
 # Tools Used
 
-Python (pandas, matplotlib, seaborn)
-VS Code
-Jupyter Notebook
-PowerPoint / PDF presentation
+Python (pandas, matplotlib, seaborn),
+VS Code,
+Jupyter Notebook,
+PowerPoint / PDF presentation,
 
 
 # Project Details
