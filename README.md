@@ -70,7 +70,7 @@ High discount ≠ high revenue at the category level either
 
 
 Recommended Actions
-PriorityActionRationale🔴 High90-Day No-Discount TestRemove everyday discounts from the top 3 best-selling categories and measure revenue impact🟡 Quick WinProtect Black Friday — But Cap DepthNovember succeeds on volume; no need to offer deeper discounts to drive performance🔵 FoundationalFix the Data Infrastructure13.6% of order lines couldn't be categorised due to unreadable type codes; structural data issues limit future analysis
+PriorityActionRationale High90-Day No-Discount TestRemove everyday discounts from the top 3 best-selling categories and measure revenue impact Quick WinProtect Black Friday — But Cap DepthNovember succeeds on volume; no need to offer deeper discounts to drive performance FoundationalFix the Data Infrastructure13.6% of order lines couldn't be categorised due to unreadable type codes; structural data issues limit future analysis
 
 Data Quality Issues Identified
 Four structural problems were flagged for engineering:
